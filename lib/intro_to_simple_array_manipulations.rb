@@ -1,4 +1,6 @@
 def using_push 
-  arr = ["hello", "annoy", "hajsh"]
-  arr.push("jkdk")
+  artists = ["Hozier", "Ariana Grande", "Usher"]
+next_artist = "Beyonce"
+artists.push(next_artist)
+
 end
