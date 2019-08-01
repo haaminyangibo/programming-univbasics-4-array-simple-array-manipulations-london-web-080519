@@ -6,6 +6,6 @@ end
 def using_unshift
   boroughs_in_nyc = ['queens', 'something']
   new_neighbourhood = ['lol']
-  updated_array = boroughs_in_nyc.unshist(new_neighbourhood)
+  updated_array = boroughs_in_nyc.unshift(new_neighbourhood)
 end
   
